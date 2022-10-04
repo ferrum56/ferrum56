@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alan-Zheng
 - 👀 I’m interested in ... AI.
-- 🌱 I’m currently learning ... in high school.
+- 🌱 I’m currently learning ... in UBC towards compsci!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
